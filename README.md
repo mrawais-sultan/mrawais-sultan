@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrawais-sultan
+- 👋 Hi, I’m @Awais Sultan
 - 👀 I’m interested in tech and new technologies like ai and many more
 - 🌱 I’m currently learning DSA and doing prjoects
 - 💞️ I’m looking to collaborate on doing projects 
